@@ -2,3 +2,4 @@
 // Please do not edit.
 goog.addDependency('../../../../WD/gui/form/Field.js', ['wd.gui.form.Field'], ['goog.dom'], false);
 goog.addDependency('../../../../WD/gui/form/TextField.js', ['wd.gui.form.TextField'], ['wd.gui.form.Field'], false);
+goog.addDependency('../../../../WD/ui/Configurable.js', ['wd.ui.Configurable'], [], false);
